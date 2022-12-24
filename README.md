@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @olddface
+- 👀 I’m interested in software developer
+- 🌱 I’m currently learning java and swing
