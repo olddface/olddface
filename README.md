@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @olddface
-- 👀 I’m interested in software developer
+- 👀 I’m interested in software developing
 - 🌱 I’m currently learning java and swing
