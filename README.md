@@ -5,4 +5,4 @@
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=olddface&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-![olddface's Streak](https://github-readme-streak-stats.herokuapp.com/?user=olddface&theme=dracula&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
