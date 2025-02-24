@@ -1,10 +1,9 @@
 # 👋 Hey, I'm @olddface  
 
 ## 🚀 About Me  
-I'm a passionate **software developer** and aspiring **game developer** who loves solving complex problems and building cool projects.  
+I'm a passionate **software developer** who loves solving complex problems and building cool projects.  
 
-- 💻 Exploring **full-stack development** and **game engines**  
-- 🎮 Learning **game development**, focusing on **3D design & physics**  
+- 💻 Exploring **full-stack development**   
 - 🔐 Interested in **cybersecurity & digital forensics**  
 - 🔢 Improving my **math & algorithmic thinking**  
 - 🏋️‍♂️ Fitness & chess enthusiast  
@@ -13,7 +12,7 @@ I'm a passionate **software developer** and aspiring **game developer** who love
 
 ## 📖 Currently Learning  
 - **Backend Development**: Laravel, Inertia.js, Vue.js  
-- **Game Development**: Geometry, physics, rendering  
+- **logic**: Math & algorithm  
 - **Cybersecurity**: Digital forensics & ethical hacking  
 
 ---
