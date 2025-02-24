@@ -26,4 +26,3 @@ I'm a passionate **software developer** who loves solving complex problems and b
 
 ## 📫 Let's Connect  
 - **GitHub**: [@olddface](https://github.com/olddface)  
-- **Portfolio**: [olddface.com](https://olddface.com) *(Coming Soon!)*  
