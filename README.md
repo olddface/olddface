@@ -4,7 +4,7 @@
 I'm a passionate **software developer** who loves solving complex problems and building cool projects.  
 
 - 💻 Exploring **full-stack development**   
-- 🔐 Interested in **cybersecurity & digital forensics**  
+- 🔐 Interested in **SEO & Performance Optimization**  
 - 🔢 Improving my **math & algorithmic thinking**  
 - 🏋️‍♂️ Fitness & chess enthusiast  
 
@@ -13,7 +13,7 @@ I'm a passionate **software developer** who loves solving complex problems and b
 ## 📖 Currently Learning  
 - **Backend Development**: Laravel, Inertia.js, Vue.js  
 - **logic**: Math & algorithm  
-- **Cybersecurity**: Digital forensics & ethical hacking  
+- **Search Engine Optimization**: Off-page & On-Page SEO  
 
 ---
 
